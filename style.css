@@ -1,0 +1,22 @@
+.body_background {
+    background-image: url("racing.gif");
+    background-position: center;
+    background-size: cover;
+}
+
+#h1 {
+    color: aliceblue;
+    font-family: cursive;
+    font-size: 35;
+}
+
+#canvas {
+    border-width: 30px;
+    border-style: ridge;
+    background-color: azure;
+}
+
+#h4 {
+    font-size:20;
+    color: azure;
+}
